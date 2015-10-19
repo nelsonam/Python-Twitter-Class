@@ -1,5 +1,5 @@
-# meetup-sept15
-code for my workshop on analyzing twitter with python at the SF Python Meetup on September 16, 2015
+# Python Twitter Class
+Originally a workshop at SF Python Meetup on September 16, 2015, this repo contains code and instructions to learn about how to use Python and Twitter.
 
 ## To get started: 
 
